@@ -1,0 +1,275 @@
+@media (max-width: 468px){
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        /* overflow-x: hidden; */
+    }
+   .small{
+    display: block;
+    text-align: center;
+   } 
+   .small img{
+    width: 50px;
+    display: inline-block;
+    /* margin-left: 450px; */
+   }
+   .the-three{
+    display: none;
+   }
+   .cert img{
+    display: none;
+   }
+   .certifi{
+    display: block;
+   }
+   .certifi img{
+    width: 100%;
+   }
+    .the-audio{
+    margin: 10px 10px;
+    height: 22vh;
+    width:95% ;
+   } 
+  
+  
+.the-first-two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    /* border: 2px solid; */
+}
+.the-second-two {
+    gap: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.power{
+    background-image:url(images/M-POWER.png) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 70%;
+    height: 15vh; 
+    padding: 15px;
+
+}
+.smart{
+    background-image: url(images/M-SMART-OFFICE.png);
+    width: 70%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 15vh;
+    padding: 15px;
+}
+.personal{
+    background-image: url(images/M-PERSONAL-CARE.png);
+    width: 70%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:15vh;
+    padding: 15px;
+  
+}
+
+.HomeApp{
+    background-image: url(images/HomeApp.png);
+    width: 70%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 15vh;
+    padding: 15px;
+
+}
+.the-big-div{
+    margin-left: 0px;
+    padding: 20px;
+    margin-right: 10px; 
+    /* width: fit-content; */
+    /* border: 2px solid; */
+}
+   .the-big-div{
+    padding: 0;
+    /* margin-left: 10px; */
+   }
+   .buy-why{
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-left: -50px;
+   }
+   .big-side{
+    display: none;
+   }
+   .small-side{
+    display: block;
+   }
+   .productss .cardi-b {
+   width: 10rem;
+   /* margin:0 15px; */
+   }
+   .sold-in img{
+    height: 30vh;
+   }
+   .cs-woman{
+    width: 100%;
+    margin-left: 20px;
+    /* height: 30vh; */
+   }
+   .carl-care{
+    width: 100%;
+    /* height: 30vh; */
+    margin-left: 20px;
+    
+
+   }
+   .one-year {
+    width: 100%;
+    /* height: 30vh; */
+    margin-left: 20px;
+    margin-top: 15px;
+
+
+    }
+   .free {
+    width: 100%;
+    /* height: 30vh; */
+    margin-left: 20px;
+
+    }
+   .Point {
+    width: 100%;
+    /* height: 30vh; */
+    margin-left: 20px;
+
+    }
+    .best-price{
+    width: 100%;
+    /* height: 30vh; */
+    margin-top: 15px;
+    margin-left: 20px;
+    
+    }
+    .scan{
+    width: 100%;
+    /* height: 30vh;   */
+    margin-left: 20px;
+
+    }
+    .o-letter{
+        width: 340px;
+        height: 400px;
+    }
+    #news-input{
+        margin-left:60px;
+        width: 75%;
+    }
+    .yes-u{
+        width: 500px;
+    }
+    .follow-middle{
+        gap: 10px;
+        margin-left: -35px;
+    }
+    .follow-footer{
+        margin-left: -70px;
+    }
+}
+
+
+
+
+
+
+
+/* (243)
+
+
+
+Learn More Add to Cart
+Traveler 3 Lit 27000mAh 15W Power Bank
+5.0
+
+(222)
+Traveler 3 Lit 27000mAh 15W Power Bank
+ Universal Compatibility
+
+ LED Torch
+
+₦ 21,800 ₦ 38,300
+
+Learn More Add to Cart
+Traveler Link 27 27000mAh 12W Power Bank
+5.0
+
+(455)
+Traveler Link 27 27000mAh 12W Power Bank
+ 2.4A Max Fast Charging
+
+ 3 Built-in Charging Cables
+
+₦ 30,900 ₦ 39,500
+
+Learn More Add to Cart
+Riff 2 Half in-Ear True Wireless Earbuds
+4.7
+
+(459)
+Riff 2 Half in-Ear True Wireless Earbuds
+ 4-mic ENC HD Voice in Calls
+
+ 30Hr Playtime (Lights On)
+
+₦ 25,600 ₦ 39,900
+
+Learn More Add to Cart
+Watch ES 2 1.95″ AMOLED IP68 Smart Watch
+5.0
+
+(262)
+Watch ES 2 1.95″ AMOLED IP68 Smart Watch
+ Bluetooth Call
+
+ 1.95'' AMOLED Display
+
+₦ 43,900 ₦ 66,000
+
+Learn More Add to Cart
+Rhyme ANC True Wireless Earbuds
+4.7
+
+(610)
+Rhyme ANC True Wireless Earbuds
+ 4-mic ENC HD Voice in Calls
+
+ 30dB ANC Noise Cancellation
+
+₦ 32,900 ₦ 47,100
+
+Learn More Add to Cart
+Smart Clipper 2 Professional Hair Clipper
+4.9
+
+(568)
+Smart Clipper 2 Professional Hair Clipper
+ Precise Blades for All Hair Types
+
+ LED Screen Display
+
+₦ 30,750 ₦ 39,400
+
+Learn More Add to Cart
+FreePods 4 ANC True Wireless Earbuds
+4.9
+
+(870)
+FreePods 4 ANC True Wireless Earbuds
+ 35.5-Hr Long Playtime
+
+ 30dB ANC Noise Cancellation
+
+₦ 33,100 ₦ 41,200
+
+Learn More A */
